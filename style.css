@@ -1,0 +1,44 @@
+.section{
+    border: 1px solid;
+    margin: 40px;
+    background-color: rgb(211, 233, 236);
+}
+.container{
+    padding: 40px;
+}
+.col-6,.col-4{
+    padding: 20px;
+}
+.col-6 input{
+    width: 500px;
+    height: 40px;
+}
+.col-4 .i1 input{
+    margin: 0px 211px;
+    height: 40px;
+    width: 241px;
+}
+.col-4 .i2 input{
+    margin: 0px 70px;
+height: 40px;
+width: 219px;
+}
+.b{
+    background-color: green;
+    margin-top: 34px;
+    width: 1000px;
+}
+.c{
+    margin-left: 67px;
+    background-color: green;
+}
+hr{
+    color: rgb(11, 11, 11);
+}
+.pagenation ul li{
+    display: inline;    
+}
+.pagenation ul{
+    margin-left: 550px;
+    margin-top: 40px;
+}
